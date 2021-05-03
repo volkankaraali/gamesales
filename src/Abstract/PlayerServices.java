@@ -1,5 +1,5 @@
 package Abstract;
-import Entites.Player;
+import Entities.Player;
 
 public interface PlayerServices {
 	void add(Player player);

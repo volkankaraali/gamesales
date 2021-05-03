@@ -1,7 +1,7 @@
 package Concrete;
 
 import Abstract.CampingServices;
-import Entites.Camping;
+import Entities.Camping;
 
 public class CampingManager implements CampingServices{
 

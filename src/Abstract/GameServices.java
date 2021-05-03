@@ -1,5 +1,5 @@
 package Abstract;
-import Entites.Game;
+import Entities.Game;
 
 public interface GameServices {
 

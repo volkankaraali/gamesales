@@ -1,8 +1,8 @@
 package Concrete;
 import Abstract.SalesServices;
-import Entites.Camping;
-import Entites.Game;
-import Entites.Player;
+import Entities.Camping;
+import Entities.Game;
+import Entities.Player;
 
 public class SalesManager implements SalesServices{
 

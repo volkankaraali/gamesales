@@ -1,5 +1,5 @@
 package Abstract;
-import Entites.Camping;
+import Entities.Camping;
 
 public interface CampingServices {
 

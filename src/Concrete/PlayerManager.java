@@ -1,7 +1,7 @@
 package Concrete;
 import Abstract.PlayerServices;
 import Abstract.ValidateServices;
-import Entites.Player;
+import Entities.Player;
 
 public class PlayerManager implements PlayerServices{
 

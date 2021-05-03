@@ -1,20 +1,20 @@
-package Entites;
+package Entities;
 
-public class Game {
+public class Camping {
 
 	private int id;
 	private String name;
-	private float price;
+	private float discount;
 	
-	public void Games() {
+	public Camping() {
 		
 	}
-
-	public Game(int id, String name, float price) {
+	
+	public Camping(int id, String name,float discount) {
 		super();
 		this.id = id;
 		this.name = name;
-		this.price = price;
+		this.discount=discount;
 	}
 
 	public int getId() {
@@ -32,12 +32,12 @@ public class Game {
 	public void setName(String name) {
 		this.name = name;
 	}
-
-	public float getPrice() {
-		return price;
+	
+	public float getDiscount() {
+		return discount;
 	}
-
-	public void setPrice(float price) {
-		this.price = price;
+	
+	public void setDiscount(float discount) {
+		this.discount=discount;
 	}
 }

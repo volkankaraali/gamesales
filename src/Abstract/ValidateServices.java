@@ -1,5 +1,5 @@
 package Abstract;
-import Entites.Player;
+import Entities.Player;
 
 public interface ValidateServices {
 

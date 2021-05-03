@@ -3,9 +3,9 @@ import Concrete.GameManager;
 import Concrete.GovurmentValidate;
 import Concrete.PlayerManager;
 import Concrete.SalesManager;
-import Entites.Camping;
-import Entites.Game;
-import Entites.Player;
+import Entities.Camping;
+import Entities.Game;
+import Entities.Player;
 
 public class Main {
 

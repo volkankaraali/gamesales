@@ -1,6 +1,6 @@
 package Concrete;
 import Abstract.ValidateServices;
-import Entites.Player;
+import Entities.Player;
 
 public class GovurmentValidate implements ValidateServices{
 

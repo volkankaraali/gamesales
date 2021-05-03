@@ -1,7 +1,7 @@
 package Abstract;
-import Entites.Camping;
-import Entites.Game;
-import Entites.Player;
+import Entities.Camping;
+import Entities.Game;
+import Entities.Player;
 
 public interface SalesServices {
 
