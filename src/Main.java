@@ -11,7 +11,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Player player1= new Player(1,"volkan","karaali","12345678911",1999);
+		Player player1= new Player(1,"volkan","karaali","12345678911",1997);
 		
 		PlayerManager playerManager=new PlayerManager(new GovurmentValidate());
 		
